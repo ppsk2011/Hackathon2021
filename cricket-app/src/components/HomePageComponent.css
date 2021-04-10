@@ -1,0 +1,14 @@
+.header-image{
+    width : 100%;
+    height: 400px;
+    margin-top: 0px;
+}
+.header-label{
+    position: absolute;
+    top: 5%;
+    left: 25%;
+    font-size: 5em;
+}
+.header-div{
+    position: relative;
+}
